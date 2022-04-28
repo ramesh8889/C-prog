@@ -2,4 +2,6 @@
 voidmain ()
 [
 printf ("hello Boss Come for tea")
+hello world
+main
 ]
