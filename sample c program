@@ -1,5 +1,5 @@
 #incude<stdio>
-voidmain
+voidmain ()
 [
-hello
+printf ("hello Boss Come for tea")
 ]
